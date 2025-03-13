@@ -18,8 +18,10 @@ Links to the relevant repositories are provided via Moodle for each laboratory s
 ### 4. Clone the repository :)
 With Git Bash opened, execute below command. If you copied the repositories link as shown in the previous step, you can insert ist with *SHIFT + Einfg*
 ```bash
-$ git clone https://github.com/MicrocontrollerApplications/Lab1_HelloWorld U:\Microcontroller\Lab1
+git clone https://github.com/MicrocontrollerApplications/Lab1_HelloWorld.git U:/Microcontroller/Lab1
 ```
+You ca highlight / mark above command, copy it to your clipboard, and paste it into Git Bash using right mouse click -> insert.
+
 If you want your repository to be stored in a different folder simply change the location from *U:\Microcontroller\Lab1* to you prefered location. But keep in mind that it's harder to support you in case you use a different setup.
 
 ## References
