@@ -8,15 +8,15 @@ Therefore, mainly one feature of Git is necessary - cloning a repository. Those 
 
 ## Git Clone
 If not stated otherwise within the repositories README, cloning a git repository is always the same and requires the below 4 steps.
-### 1. Get the repositories link (in our case from GitHub)
+### 1. Get the repository's link (in our case from GitHub)
 
-### 2. Open the Git bash
+### 2. Open Git bash
 
 ### 3. Navigate to the folder you want to clone your repository into
 
 ### 4. Clone the repository :)
 
 ## References
-[Medium - An Introduction to Git for Beginners](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
-[Oh My Git - An open source game about learning Git!](https://ohmygit.org/)
-[Git Documentation](https://git-scm.com/doc) (This is really for advanced Git users)
+1. [Medium - An Introduction to Git for Beginners](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
+1. [Oh My Git - An open source game about learning Git!](https://ohmygit.org/)
+1. [Git Documentation](https://git-scm.com/doc) (This is really for advanced Git users)
