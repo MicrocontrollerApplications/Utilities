@@ -11,10 +11,10 @@ If not stated otherwise within the repositories README, cloning a git repository
 ### 1. Get the repository's link (in our case from GitHub)
 Links to the relevant repositories are provided via Moodle for each laboratory session. For this example we use the repository for our first lab session https://github.com/MicrocontrollerApplications/Lab1_HelloWorld .
 
-![](git_images/getRepoLink.png)
+![How to get repository link](git_images/getRepoLink.png)
 ### 2. Open Git bash
 
-![](git_images/GitBash.png)
+<img src="git_images/GitBash.png" alt="Open Git Bash" style="width:75%; height:auto;">
 ### 4. Clone the repository :)
 With Git Bash opened, execute below command. If you copied the repositories link as shown in the previous step, you can insert ist with *SHIFT + Einfg*
 ```bash
