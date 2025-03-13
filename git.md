@@ -9,12 +9,18 @@ Therefore, mainly one feature of Git is necessary - cloning a repository. Those 
 ## Git Clone
 If not stated otherwise within the repositories README, cloning a git repository is always the same and requires the below 4 steps.
 ### 1. Get the repository's link (in our case from GitHub)
+Links to the relevant repositories are provided via Moodle for each laboratory session. For this example we use the repository for our first lab session https://github.com/MicrocontrollerApplications/Lab1_HelloWorld .
 
+![](git_images/getRepoLink.png)
 ### 2. Open Git bash
-
-### 3. Navigate to the folder you want to clone your repository into
+** MISSING IMAGES - ask Merle for help **
 
 ### 4. Clone the repository :)
+With Git Bash opened, execute below command. If you copied the repositories link as shown in the previous step, you can insert ist with *SHIFT + Einfg*
+```bash
+$ git clone https://github.com/MicrocontrollerApplications/Lab1_HelloWorld U:\Microcontroller\Lab1
+```
+If you want your repository to be stored in a different folder simply change the location from *U:\Microcontroller\Lab1* to you prefered location. But keep in mind that it's harder to support you in case you use a different setup.
 
 ## References
 1. [Medium - An Introduction to Git for Beginners](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
