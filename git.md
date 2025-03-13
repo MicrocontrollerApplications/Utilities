@@ -13,8 +13,8 @@ Links to the relevant repositories are provided via Moodle for each laboratory s
 
 ![](git_images/getRepoLink.png)
 ### 2. Open Git bash
-** MISSING IMAGES - ask Merle for help **
 
+![](git_images/GitBash.png)
 ### 4. Clone the repository :)
 With Git Bash opened, execute below command. If you copied the repositories link as shown in the previous step, you can insert ist with *SHIFT + Einfg*
 ```bash
