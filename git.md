@@ -34,6 +34,9 @@ git clone https://github.com/MicrocontrollerApplications/Lab1_HelloWorld.git U:/
 > [!TIP]
 > You can highlight / mark above command, copy it to your clipboard, and paste it into Git Bash using right mouse click -> insert.
 
+> [!WARNING]
+> In case you read this manual, in a lab session other than lab 1 - **change the target folders name!!** 
+
 If you want your repository to be stored in a different folder simply change the location from *U:\Microcontroller\Lab1* to you prefered location. But keep in mind that it's harder to support you in case you use a different setup.
 
 ## References
