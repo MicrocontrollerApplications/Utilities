@@ -20,7 +20,7 @@ To clone the repository please follow the below instructions:
 ![](git_images/clone_repo_V2.gif)
 
 For those who do like to have written instructions:
-1. copy the repository link (see ### 1.)
+1. [copy the repository link](#1-get-the-repositorys-link-in-our-case-from-github)
 2. open MPLAB X IDE
 3. close all open projects
 4. choose in the toolbar TEAM
@@ -38,8 +38,8 @@ For those who do like to have written instructions:
 
 For those who do like to have written instructions: 
 1. Open the [GitHub repository _C_LIB](https://github.com/MicrocontrollerApplications/_C_Lib)
-2. Copy the repository link (see ### 1.)
-3. follow step 2. to 8. of the described instructions in ### 2. 
+2. [copy the repository link](#1-get-the-repositorys-link-in-our-case-from-github)
+3. follow step 2. to 8. of the described instructions in [Open MPLAB X IDE and clone the current repository](#2-open-mplab-x-ide-and-clone-the-current-repository) 
 
 If you want your repositories to be stored in a different folder simply change the location from *U:/Microcontroller/* to your preferred location. But keep in mind that it's harder to support you in case you use a different setup and that **you need to make sure that _C_LIB is always positioned correctly!**
 
