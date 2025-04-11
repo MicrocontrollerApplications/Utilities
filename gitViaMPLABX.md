@@ -17,7 +17,7 @@ Links to the relevant repositories are provided via Moodle for each laboratory s
 ---
 Before you start, make sure that all your old projects are closed. To do so, you need to right-click on the microcontroller symbol of your current project shown in the left-hand column and then select *close*.
 To clone the repository please the below instructions:
-![](git_images/mplab_cloneGit_3.gif)
+![](git_images/clone_repo_V2.gif)
 
 For those who do like to have written instructions:
 1. copy the repository link (see ### 1.)
