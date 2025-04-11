@@ -36,6 +36,11 @@ For those who do like to have written instructions:
 
 ![](git_images/mplab_cloneCLIB_1.gif)
 
+For those who do like to have written instructions: 
+1. Open the [GitHub repository _C_LIB](https://github.com/MicrocontrollerApplications/_C_Lib)
+2. Copy the repository link (see ### 1.)
+3. follow step 2. to 8. of the in ### 2. described instructions
+
 If you want your repositories to be stored in a different folder simply change the location from *U:/Microcontroller/* to your preferred location. But keep in mind that it's harder to support you in case you use a different setup and that **you need to make sure that _C_LIB is always positioned correctly!**
 
 ## References
